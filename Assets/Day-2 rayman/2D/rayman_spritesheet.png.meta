@@ -1,0 +1,5923 @@
+fileFormatVersion: 2
+guid: 0879f6ecc3e8be34cad6991bc621ccd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8621149190542745404
+    second: rayman_spritesheet_0
+  - first:
+      213: 3185673950415759611
+    second: rayman_spritesheet_1
+  - first:
+      213: -6875332403870892779
+    second: rayman_spritesheet_2
+  - first:
+      213: -6019175088639235452
+    second: rayman_spritesheet_3
+  - first:
+      213: 6786162013387299298
+    second: rayman_spritesheet_4
+  - first:
+      213: -9210454069215494204
+    second: rayman_spritesheet_5
+  - first:
+      213: 2633688477847828861
+    second: rayman_spritesheet_6
+  - first:
+      213: -3213568582128624362
+    second: rayman_spritesheet_7
+  - first:
+      213: -243049420394874567
+    second: rayman_spritesheet_8
+  - first:
+      213: 6405674177606550298
+    second: rayman_spritesheet_9
+  - first:
+      213: -1405356880960382268
+    second: rayman_spritesheet_10
+  - first:
+      213: -2703502304516330627
+    second: rayman_spritesheet_11
+  - first:
+      213: -1486272939456077767
+    second: rayman_spritesheet_12
+  - first:
+      213: 5088372452199819755
+    second: rayman_spritesheet_13
+  - first:
+      213: -5183113101592641480
+    second: rayman_spritesheet_14
+  - first:
+      213: 3715010919383081895
+    second: rayman_spritesheet_15
+  - first:
+      213: 6787281055093407138
+    second: rayman_spritesheet_16
+  - first:
+      213: 3978602893262610600
+    second: rayman_spritesheet_17
+  - first:
+      213: -6556172430532964177
+    second: rayman_spritesheet_18
+  - first:
+      213: -8790507798608217734
+    second: rayman_spritesheet_19
+  - first:
+      213: -7550341489872518988
+    second: rayman_spritesheet_20
+  - first:
+      213: 3434671406369263629
+    second: rayman_spritesheet_21
+  - first:
+      213: -7249884248158742179
+    second: rayman_spritesheet_22
+  - first:
+      213: -8687028472749511563
+    second: rayman_spritesheet_23
+  - first:
+      213: 8591665111221895533
+    second: rayman_spritesheet_24
+  - first:
+      213: 1484574754424763135
+    second: rayman_spritesheet_25
+  - first:
+      213: 4098008211904875201
+    second: rayman_spritesheet_26
+  - first:
+      213: -6325989603564489396
+    second: rayman_spritesheet_27
+  - first:
+      213: -4114726399758830131
+    second: rayman_spritesheet_28
+  - first:
+      213: -1173559911466280050
+    second: rayman_spritesheet_29
+  - first:
+      213: -7349538740707694989
+    second: rayman_spritesheet_30
+  - first:
+      213: -5401401706669998279
+    second: rayman_spritesheet_31
+  - first:
+      213: -7116961231487357739
+    second: rayman_spritesheet_32
+  - first:
+      213: 8056786000597681708
+    second: rayman_spritesheet_33
+  - first:
+      213: 2277647692336756527
+    second: rayman_spritesheet_34
+  - first:
+      213: 4364121428424101349
+    second: rayman_spritesheet_35
+  - first:
+      213: 4817958536756988829
+    second: rayman_spritesheet_36
+  - first:
+      213: -679926247093624062
+    second: rayman_spritesheet_37
+  - first:
+      213: 5204114987300581398
+    second: rayman_spritesheet_38
+  - first:
+      213: -5372872193134989921
+    second: rayman_spritesheet_39
+  - first:
+      213: 4088967449359045580
+    second: rayman_spritesheet_40
+  - first:
+      213: 9205330168179725334
+    second: rayman_spritesheet_41
+  - first:
+      213: -8687331952328696441
+    second: rayman_spritesheet_42
+  - first:
+      213: 290260530747583645
+    second: rayman_spritesheet_43
+  - first:
+      213: 1569788178031935340
+    second: rayman_spritesheet_44
+  - first:
+      213: -2604929313055166001
+    second: rayman_spritesheet_45
+  - first:
+      213: -6538692768440163786
+    second: rayman_spritesheet_46
+  - first:
+      213: 7299444473244234921
+    second: rayman_spritesheet_47
+  - first:
+      213: -4119057285172306014
+    second: rayman_spritesheet_48
+  - first:
+      213: 4037998409302105451
+    second: rayman_spritesheet_49
+  - first:
+      213: 6741045709362293548
+    second: rayman_spritesheet_50
+  - first:
+      213: -7016904375386856061
+    second: rayman_spritesheet_51
+  - first:
+      213: -1411969626689136454
+    second: rayman_spritesheet_52
+  - first:
+      213: -198694916366379167
+    second: rayman_spritesheet_53
+  - first:
+      213: -7446960418407463871
+    second: rayman_spritesheet_54
+  - first:
+      213: 95185760689115358
+    second: rayman_spritesheet_55
+  - first:
+      213: -555702521426246477
+    second: rayman_spritesheet_56
+  - first:
+      213: 6135213909356010878
+    second: rayman_spritesheet_57
+  - first:
+      213: 438233122796367840
+    second: rayman_spritesheet_58
+  - first:
+      213: -3505782908932246981
+    second: rayman_spritesheet_59
+  - first:
+      213: 374301372998407638
+    second: rayman_spritesheet_60
+  - first:
+      213: -6744558283015746725
+    second: rayman_spritesheet_61
+  - first:
+      213: 5463907376104283735
+    second: rayman_spritesheet_62
+  - first:
+      213: -8930969572766900906
+    second: rayman_spritesheet_63
+  - first:
+      213: -8999250526034804514
+    second: rayman_spritesheet_64
+  - first:
+      213: -2227594108669435419
+    second: rayman_spritesheet_65
+  - first:
+      213: -4233639290092809094
+    second: rayman_spritesheet_66
+  - first:
+      213: 257673540370759444
+    second: rayman_spritesheet_67
+  - first:
+      213: 4509557521454023628
+    second: rayman_spritesheet_68
+  - first:
+      213: -29313473388704992
+    second: rayman_spritesheet_69
+  - first:
+      213: -6484118556273361195
+    second: rayman_spritesheet_70
+  - first:
+      213: -8244997804412604838
+    second: rayman_spritesheet_71
+  - first:
+      213: -6780601290919376076
+    second: rayman_spritesheet_72
+  - first:
+      213: 1809045508107944409
+    second: rayman_spritesheet_73
+  - first:
+      213: -932679211369755314
+    second: rayman_spritesheet_74
+  - first:
+      213: -7383603813897088014
+    second: rayman_spritesheet_75
+  - first:
+      213: 1973559976493135285
+    second: rayman_spritesheet_76
+  - first:
+      213: -9195789519780502993
+    second: rayman_spritesheet_77
+  - first:
+      213: 2432124798807385746
+    second: rayman_spritesheet_78
+  - first:
+      213: -6071648537922993182
+    second: rayman_spritesheet_79
+  - first:
+      213: 5589515548065068714
+    second: rayman_spritesheet_80
+  - first:
+      213: -558815724941388050
+    second: rayman_spritesheet_81
+  - first:
+      213: 8473310243446394820
+    second: rayman_spritesheet_82
+  - first:
+      213: 4020771516658259235
+    second: rayman_spritesheet_83
+  - first:
+      213: 3340836590674732218
+    second: rayman_spritesheet_84
+  - first:
+      213: 4514321418587627660
+    second: rayman_spritesheet_85
+  - first:
+      213: -7912567255281462274
+    second: rayman_spritesheet_86
+  - first:
+      213: -5835688714883768077
+    second: rayman_spritesheet_87
+  - first:
+      213: 2833688549398730473
+    second: rayman_spritesheet_88
+  - first:
+      213: -3557009436331916471
+    second: rayman_spritesheet_89
+  - first:
+      213: -6341799395868026864
+    second: rayman_spritesheet_90
+  - first:
+      213: -1396936943535131078
+    second: rayman_spritesheet_91
+  - first:
+      213: 3149001238362459714
+    second: rayman_spritesheet_92
+  - first:
+      213: -2254431334089942830
+    second: rayman_spritesheet_93
+  - first:
+      213: -4348583923210867113
+    second: rayman_spritesheet_94
+  - first:
+      213: 8281290820551424187
+    second: rayman_spritesheet_95
+  - first:
+      213: 8065095886457797143
+    second: rayman_spritesheet_96
+  - first:
+      213: 118881544205452702
+    second: rayman_spritesheet_97
+  - first:
+      213: 1051044906461502464
+    second: rayman_spritesheet_98
+  - first:
+      213: 1420541363303136985
+    second: rayman_spritesheet_99
+  - first:
+      213: 2129203278822781747
+    second: rayman_spritesheet_100
+  - first:
+      213: 2808247304321774753
+    second: rayman_spritesheet_101
+  - first:
+      213: -5535449062864859625
+    second: rayman_spritesheet_102
+  - first:
+      213: 1040548107350589794
+    second: rayman_spritesheet_103
+  - first:
+      213: 2237198599212055798
+    second: rayman_spritesheet_104
+  - first:
+      213: 876219129889527001
+    second: rayman_spritesheet_105
+  - first:
+      213: 7379295930579794335
+    second: rayman_spritesheet_106
+  - first:
+      213: -5914415735831897764
+    second: rayman_spritesheet_107
+  - first:
+      213: -5199312600969654554
+    second: rayman_spritesheet_108
+  - first:
+      213: -469597675027760920
+    second: rayman_spritesheet_109
+  - first:
+      213: -2186967919049278895
+    second: rayman_spritesheet_110
+  - first:
+      213: 6001459004503163824
+    second: rayman_spritesheet_111
+  - first:
+      213: 5564636053915989424
+    second: rayman_spritesheet_112
+  - first:
+      213: 1448304289405751020
+    second: rayman_spritesheet_113
+  - first:
+      213: -5499316558610836847
+    second: rayman_spritesheet_114
+  - first:
+      213: 2074140247429703779
+    second: rayman_spritesheet_115
+  - first:
+      213: 4044531519239588747
+    second: rayman_spritesheet_116
+  - first:
+      213: 397560907141617416
+    second: rayman_spritesheet_117
+  - first:
+      213: 4091216697396281602
+    second: rayman_spritesheet_118
+  - first:
+      213: 2603298794585236698
+    second: rayman_spritesheet_119
+  - first:
+      213: 8022351873379399884
+    second: rayman_spritesheet_120
+  - first:
+      213: -5438835323775751371
+    second: rayman_spritesheet_121
+  - first:
+      213: 1555620434977780113
+    second: rayman_spritesheet_122
+  - first:
+      213: -161391440860371108
+    second: rayman_spritesheet_123
+  - first:
+      213: 7799268443260069239
+    second: rayman_spritesheet_124
+  - first:
+      213: -3136666677932054056
+    second: rayman_spritesheet_125
+  - first:
+      213: 8126080201311682147
+    second: rayman_spritesheet_126
+  - first:
+      213: -8818781968034335836
+    second: rayman_spritesheet_127
+  - first:
+      213: 4647563340013072590
+    second: rayman_spritesheet_128
+  - first:
+      213: 208689715525141691
+    second: rayman_spritesheet_129
+  - first:
+      213: 6258409540643532992
+    second: rayman_spritesheet_130
+  - first:
+      213: 7672737288043324788
+    second: rayman_spritesheet_131
+  - first:
+      213: -4755320406451098656
+    second: rayman_spritesheet_132
+  - first:
+      213: -8668015502351326092
+    second: rayman_spritesheet_133
+  - first:
+      213: 5110446912817400677
+    second: rayman_spritesheet_134
+  - first:
+      213: -6986959537371159415
+    second: rayman_spritesheet_135
+  - first:
+      213: 4678387254223659182
+    second: rayman_spritesheet_136
+  - first:
+      213: -8581857071309340176
+    second: rayman_spritesheet_137
+  - first:
+      213: -5010271715209003827
+    second: rayman_spritesheet_138
+  - first:
+      213: -5339638087849548523
+    second: rayman_spritesheet_139
+  - first:
+      213: -8818275705779005332
+    second: rayman_spritesheet_140
+  - first:
+      213: -2193335637856218698
+    second: rayman_spritesheet_141
+  - first:
+      213: 5913300951906456331
+    second: rayman_spritesheet_142
+  - first:
+      213: -4605843548169295764
+    second: rayman_spritesheet_143
+  - first:
+      213: 7462499365853486079
+    second: rayman_spritesheet_144
+  - first:
+      213: -5778646377905726863
+    second: rayman_spritesheet_145
+  - first:
+      213: -9150258087360548202
+    second: rayman_spritesheet_146
+  - first:
+      213: 6083736726437476467
+    second: rayman_spritesheet_147
+  - first:
+      213: -1208223459504777345
+    second: rayman_spritesheet_148
+  - first:
+      213: 3821129958235412506
+    second: rayman_spritesheet_149
+  - first:
+      213: -1543871141114766440
+    second: rayman_spritesheet_150
+  - first:
+      213: 5288399015259386420
+    second: rayman_spritesheet_151
+  - first:
+      213: 4501487114226912889
+    second: rayman_spritesheet_152
+  - first:
+      213: 2026632426605190869
+    second: rayman_spritesheet_153
+  - first:
+      213: 993922912062847230
+    second: rayman_spritesheet_154
+  - first:
+      213: -7125103385075793006
+    second: rayman_spritesheet_155
+  - first:
+      213: 8133803996738282242
+    second: rayman_spritesheet_156
+  - first:
+      213: -6987905045431098814
+    second: rayman_spritesheet_157
+  - first:
+      213: 1840405013971420291
+    second: rayman_spritesheet_158
+  - first:
+      213: -2785363842083123459
+    second: rayman_spritesheet_159
+  - first:
+      213: 5860418567231070117
+    second: rayman_spritesheet_160
+  - first:
+      213: -1674817844287647762
+    second: rayman_spritesheet_161
+  - first:
+      213: -3981764099397217940
+    second: rayman_spritesheet_162
+  - first:
+      213: 8388948435519281587
+    second: rayman_spritesheet_163
+  - first:
+      213: -3091306367250686703
+    second: rayman_spritesheet_164
+  - first:
+      213: -7034266022319309553
+    second: rayman_spritesheet_165
+  - first:
+      213: -8416294552899365487
+    second: rayman_spritesheet_166
+  - first:
+      213: -6920462489874202334
+    second: rayman_spritesheet_167
+  - first:
+      213: -3616366924061921426
+    second: rayman_spritesheet_168
+  - first:
+      213: -8147997568641758345
+    second: rayman_spritesheet_169
+  - first:
+      213: -7866992276006947543
+    second: rayman_spritesheet_170
+  - first:
+      213: 8724737196007532637
+    second: rayman_spritesheet_171
+  - first:
+      213: 7051413271063894073
+    second: rayman_spritesheet_172
+  - first:
+      213: -6787016346323623039
+    second: rayman_spritesheet_173
+  - first:
+      213: -6076032214776710798
+    second: rayman_spritesheet_174
+  - first:
+      213: -846705582725896049
+    second: rayman_spritesheet_175
+  - first:
+      213: -7754818592936826135
+    second: rayman_spritesheet_176
+  - first:
+      213: -5771071740356945373
+    second: rayman_spritesheet_177
+  - first:
+      213: -8237773163969247318
+    second: rayman_spritesheet_178
+  - first:
+      213: -541701898627972176
+    second: rayman_spritesheet_179
+  - first:
+      213: 567603226542145542
+    second: rayman_spritesheet_180
+  - first:
+      213: -2896452206486608193
+    second: rayman_spritesheet_181
+  - first:
+      213: 3229247534070775081
+    second: rayman_spritesheet_182
+  - first:
+      213: 7097201498932695232
+    second: rayman_spritesheet_183
+  - first:
+      213: -3786985611440071478
+    second: rayman_spritesheet_184
+  - first:
+      213: 7408851331757286321
+    second: rayman_spritesheet_185
+  - first:
+      213: 1082176741180576449
+    second: rayman_spritesheet_186
+  - first:
+      213: 7265185028188585159
+    second: rayman_spritesheet_187
+  - first:
+      213: -6333317861341984218
+    second: rayman_spritesheet_188
+  - first:
+      213: -3354850759575930612
+    second: rayman_spritesheet_189
+  - first:
+      213: 8630544229542127731
+    second: rayman_spritesheet_190
+  - first:
+      213: -6669211181825035217
+    second: rayman_spritesheet_191
+  - first:
+      213: 299613573092382630
+    second: rayman_spritesheet_192
+  - first:
+      213: 5070057836645798303
+    second: rayman_spritesheet_193
+  - first:
+      213: -5576789835945245233
+    second: rayman_spritesheet_194
+  - first:
+      213: 957641778018568459
+    second: rayman_spritesheet_195
+  - first:
+      213: 9078009032457970660
+    second: rayman_spritesheet_196
+  - first:
+      213: 1632661135991437852
+    second: rayman_spritesheet_197
+  - first:
+      213: -1813094905924106692
+    second: rayman_spritesheet_198
+  - first:
+      213: 3675212301067833805
+    second: rayman_spritesheet_199
+  - first:
+      213: -4693130055286408880
+    second: rayman_spritesheet_200
+  - first:
+      213: -1925006994701132833
+    second: rayman_spritesheet_201
+  - first:
+      213: 1204612089364883137
+    second: rayman_spritesheet_202
+  - first:
+      213: 2994074978679641205
+    second: rayman_spritesheet_203
+  - first:
+      213: -4567852774120205861
+    second: rayman_spritesheet_204
+  - first:
+      213: -5910905279879445282
+    second: rayman_spritesheet_205
+  - first:
+      213: 5697430564067982272
+    second: rayman_spritesheet_206
+  - first:
+      213: 3570591855884935723
+    second: rayman_spritesheet_207
+  - first:
+      213: 1030612361695218798
+    second: rayman_spritesheet_208
+  - first:
+      213: 1955275957384060857
+    second: rayman_spritesheet_209
+  - first:
+      213: -5854941282394383503
+    second: rayman_spritesheet_210
+  - first:
+      213: -6609884450209451744
+    second: rayman_spritesheet_211
+  - first:
+      213: -5930813053706260374
+    second: rayman_spritesheet_212
+  - first:
+      213: 3194620920471121019
+    second: rayman_spritesheet_213
+  - first:
+      213: -5270254801077730421
+    second: rayman_spritesheet_214
+  - first:
+      213: 8281322263066068692
+    second: rayman_spritesheet_215
+  - first:
+      213: -2539227496823841826
+    second: rayman_spritesheet_216
+  - first:
+      213: -6985124414198532384
+    second: rayman_spritesheet_217
+  - first:
+      213: -6798175230948750909
+    second: rayman_spritesheet_218
+  - first:
+      213: -6825855963703789109
+    second: rayman_spritesheet_219
+  - first:
+      213: 2306875898296792582
+    second: rayman_spritesheet_220
+  - first:
+      213: 3934449252821620376
+    second: rayman_spritesheet_221
+  - first:
+      213: -6860700033784949585
+    second: rayman_spritesheet_222
+  - first:
+      213: -5422403143210069505
+    second: rayman_spritesheet_223
+  - first:
+      213: -1576970723254561243
+    second: rayman_spritesheet_224
+  - first:
+      213: 7834293647716540739
+    second: rayman_spritesheet_225
+  - first:
+      213: 2522432463416888831
+    second: rayman_spritesheet_226
+  - first:
+      213: 5456507004768215598
+    second: rayman_spritesheet_227
+  - first:
+      213: 2131821542370064617
+    second: rayman_spritesheet_228
+  - first:
+      213: -6934545908031652046
+    second: rayman_spritesheet_229
+  - first:
+      213: 1023890070034296700
+    second: rayman_spritesheet_230
+  - first:
+      213: -9125012502978372552
+    second: rayman_spritesheet_231
+  - first:
+      213: -6823583951677446545
+    second: rayman_spritesheet_232
+  - first:
+      213: -2402314316646220210
+    second: rayman_spritesheet_233
+  - first:
+      213: 6946729804501510313
+    second: rayman_spritesheet_234
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rayman_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1314
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f52f1138974a770800000000000000
+      internalID: 8621149190542745404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1315
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf82fb85499c53c20800000000000000
+      internalID: 3185673950415759611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1324
+        width: 117
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dfa821b99e590a0800000000000000
+      internalID: -6875332403870892779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1307
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a27c8d528977ca0800000000000000
+      internalID: -6019175088639235452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1323
+        width: 236
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e91334856a4d2e50800000000000000
+      internalID: 6786162013387299298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1344
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cffb58b2d4ed2080800000000000000
+      internalID: -9210454069215494204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1332
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79b82b77bdbc8420800000000000000
+      internalID: 2633688477847828861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1338
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d1ed8966c1763d0800000000000000
+      internalID: -3213568582128624362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1345
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939bf7207d380acf0800000000000000
+      internalID: -243049420394874567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1344
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13812fc9b685e850800000000000000
+      internalID: 6405674177606550298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1345
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca94b7dc5b2f7ce0800000000000000
+      internalID: -1405356880960382268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1346
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7baad15afa3b7ad0800000000000000
+      internalID: -2703502304516330627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1346
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e17cd2a2bf5be0800000000000000
+      internalID: -1486272939456077767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1330
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9e04239c78d9640800000000000000
+      internalID: 5088372452199819755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1332
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830c5ec6812e118b0800000000000000
+      internalID: -5183113101592641480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1338
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3a68a8fbe5e8330800000000000000
+      internalID: 3715010919383081895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1340
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adb497b824413e50800000000000000
+      internalID: 6787281055093407138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1344
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0624b7046d63730800000000000000
+      internalID: 3978602893262610600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1352
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa09fd719ebc305a0800000000000000
+      internalID: -6556172430532964177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1213
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f7a43bb7d10680800000000000000
+      internalID: -8790507798608217734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1253
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0414b1b6cc73790800000000000000
+      internalID: -7550341489872518988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1259
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00d4d842776aaf20800000000000000
+      internalID: 3434671406369263629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1263
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d595cc510bc336b90800000000000000
+      internalID: -7249884248158742179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1263
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57caf0041a9717780800000000000000
+      internalID: -8687028472749511563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1261
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d618f77e5e9bb3770800000000000000
+      internalID: 8591665111221895533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1262
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff23000afd44a9410800000000000000
+      internalID: 1484574754424763135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1265
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca493da1cc0fd830800000000000000
+      internalID: 4098008211904875201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1260
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4579bad8f19538a0800000000000000
+      internalID: -6325989603564489396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f372e32e85e6c0800000000000000
+      internalID: -4114726399758830131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1257
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd9627a7da6bfe0800000000000000
+      internalID: -1173559911466280050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1260
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37665217471310a90800000000000000
+      internalID: -7349538740707694989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1272
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ffeb004cd5a05b0800000000000000
+      internalID: -5401401706669998279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1270
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc28fc97797b3d90800000000000000
+      internalID: -7116961231487357739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1213
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2607fc4e247fcf60800000000000000
+      internalID: 8056786000597681708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1215
+        width: 118
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2778393284db9f10800000000000000
+      internalID: 2277647692336756527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1211
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed83e92159709c30800000000000000
+      internalID: 4364121428424101349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1224
+        width: 118
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b06f533c3dcd240800000000000000
+      internalID: 4817958536756988829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1222
+        width: 125
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20325804eaa6096f0800000000000000
+      internalID: -679926247093624062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1224
+        width: 132
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6107654220bb83840800000000000000
+      internalID: 5204114987300581398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1191
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d6d900539bf65b0800000000000000
+      internalID: -5372872193134989921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1211
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35e2d1b3eeeb830800000000000000
+      internalID: 4088967449359045580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1200
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6141a8a1407efbf70800000000000000
+      internalID: 9205330168179725334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1202
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d1c87ed95607780800000000000000
+      internalID: -8687331952328696441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1198
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca6833a66370400800000000000000
+      internalID: 290260530747583645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1202
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f7334e70209c510800000000000000
+      internalID: 1569788178031935340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1195
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1385e579e69dbd0800000000000000
+      internalID: -2604929313055166001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1200
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63265b11295e145a0800000000000000
+      internalID: -6538692768440163786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1202
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a439650316dc4560800000000000000
+      internalID: 7299444473244234921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1203
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd1db093b26d6c0800000000000000
+      internalID: -4119057285172306014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1205
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d5b06b82ad90830800000000000000
+      internalID: 4037998409302105451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1204
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2be5396b510d8d50800000000000000
+      internalID: 6741045709362293548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1123
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ae22d5a2fe9e90800000000000000
+      internalID: -7016904375386856061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1125
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab89d8ffa1da76ce0800000000000000
+      internalID: -1411969626689136454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1125
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1675e4bb6081e3df0800000000000000
+      internalID: -198694916366379167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1124
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144cd6484f417a890800000000000000
+      internalID: -7446960418407463871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1128
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0dc8de1fa225100800000000000000
+      internalID: 95185760689115358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1125
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48991408fb948f0800000000000000
+      internalID: -555702521426246477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1128
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d53387b88a42550800000000000000
+      internalID: 6135213909356010878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1131
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef661d04bae41600800000000000000
+      internalID: 438233122796367840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1129
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32357dc405f85fc0800000000000000
+      internalID: -3505782908932246981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1128
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5d2889d19c13500800000000000000
+      internalID: 374301372998407638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1128
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b8dedc9f38662a0800000000000000
+      internalID: -6744558283015746725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1130
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e155e3fc2b3db40800000000000000
+      internalID: 5463907376104283735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1129
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d186bed72de0480800000000000000
+      internalID: -8930969572766900906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1130
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c2fe935d3c1380800000000000000
+      internalID: -8999250526034804514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1025
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -35.5}
+        - {x: 33, y: -30.5}
+        - {x: 29, y: -26.5}
+        - {x: 24, y: -23.5}
+        - {x: 24, y: -19.5}
+        - {x: 21, y: -14.5}
+        - {x: 17, y: -12.5}
+        - {x: 17, y: -6.5}
+        - {x: 13, y: -3.5}
+        - {x: 16, y: 4.5}
+        - {x: 17, y: 9.5}
+        - {x: 13, y: 11.5}
+        - {x: 14, y: 18.5}
+        - {x: 25, y: 14.5}
+        - {x: 34, y: 13.5}
+        - {x: 36, y: 15.5}
+        - {x: 37, y: 21.5}
+        - {x: 41, y: 21.5}
+        - {x: 42, y: 24.5}
+        - {x: 42, y: 27.5}
+        - {x: 49, y: 28.5}
+        - {x: 49, y: 35.5}
+        - {x: 46, y: 38.5}
+        - {x: 39, y: 42.5}
+        - {x: 31, y: 48.5}
+        - {x: 26, y: 50.5}
+        - {x: 23, y: 54.5}
+        - {x: 19, y: 58.5}
+        - {x: 1, y: 64.5}
+        - {x: 1, y: 69.5}
+        - {x: -3, y: 72.5}
+        - {x: -20, y: 72.5}
+        - {x: -20, y: 67.5}
+        - {x: -27, y: 67.5}
+        - {x: -33, y: 61.5}
+        - {x: -36, y: 51.5}
+        - {x: -37, y: 51.5}
+        - {x: -40, y: 48.5}
+        - {x: -40, y: 28.5}
+        - {x: -38, y: 26.5}
+        - {x: -36, y: 21.5}
+        - {x: -28, y: 13.5}
+        - {x: -25, y: 7.5}
+        - {x: -21, y: 5.5}
+        - {x: -21, y: -2.5}
+        - {x: -20, y: -11.5}
+        - {x: -27, y: -12.5}
+        - {x: -29, y: -12.5}
+        - {x: -46, y: -13.5}
+        - {x: -48, y: -15.5}
+        - {x: -49, y: -18.5}
+        - {x: -49, y: -34.5}
+        - {x: -38, y: -45.5}
+        - {x: -30, y: -49.5}
+        - {x: -22, y: -49.5}
+        - {x: -16, y: -45.5}
+        - {x: -6, y: -45.5}
+        - {x: -3, y: -44.5}
+        - {x: -3, y: -34.5}
+        - {x: 12, y: -33.5}
+        - {x: 13, y: -37.5}
+        - {x: 19, y: -37.5}
+        - {x: 19, y: -44.5}
+        - {x: 23, y: -46.5}
+        - {x: 23, y: -51.5}
+        - {x: 19, y: -59.5}
+        - {x: 20, y: -64.5}
+        - {x: 24, y: -66.5}
+        - {x: 24, y: -71.5}
+        - {x: 25, y: -72.5}
+        - {x: 39, y: -72.5}
+        - {x: 40, y: -71.5}
+        - {x: 40, y: -46.5}
+        - {x: 36, y: -44.5}
+      - - {x: -7, y: 36.5}
+        - {x: -9, y: 41.5}
+        - {x: -6, y: 41.5}
+        - {x: -3, y: 44.5}
+        - {x: 0, y: 46.5}
+        - {x: -2, y: 47.5}
+        - {x: -5, y: 44.5}
+        - {x: -5, y: 36.5}
+        - {x: -9, y: 32.5}
+        - {x: -9, y: 28.5}
+        - {x: -7, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0.44
+      bones: []
+      spriteID: 5e16101e5fef511e0800000000000000
+      internalID: -2227594108669435419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1021
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -35}
+        - {x: 14, y: -27}
+        - {x: -3, y: -5}
+        - {x: -3, y: 5}
+        - {x: -7, y: 7}
+        - {x: -5, y: 34}
+        - {x: -8, y: 52}
+        - {x: -14, y: 56}
+        - {x: -25, y: 56}
+        - {x: -30, y: 54}
+        - {x: -30, y: 41}
+        - {x: -25, y: 35}
+        - {x: -29, y: 13}
+        - {x: -28, y: 3}
+        - {x: -13, y: -13}
+        - {x: -4, y: -27}
+        - {x: -1, y: -37}
+        - {x: 17, y: -54}
+        - {x: 21, y: -56}
+        - {x: 30, y: -56}
+        - {x: 30, y: -46}
+        - {x: 26, y: -42}
+      physicsShape: []
+      tessellationDetail: 0.24
+      bones: []
+      spriteID: a7491e61f771f35c0800000000000000
+      internalID: -4233639290092809094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1012
+        width: 118
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -27}
+        - {x: 35, y: -35}
+        - {x: 8, y: -38}
+        - {x: -20, y: -11}
+        - {x: -32, y: 13}
+        - {x: -15, y: 31}
+        - {x: -16, y: 53}
+        - {x: -21, y: 60}
+        - {x: -26, y: 66}
+        - {x: -42, y: 66}
+        - {x: -54, y: 60}
+        - {x: -58, y: 45}
+        - {x: -59, y: 34}
+        - {x: -59, y: -14}
+        - {x: -40, y: -28}
+        - {x: 15, y: -68}
+        - {x: 59, y: -68}
+        - {x: 59, y: -30}
+        - {x: 56, y: -21}
+      physicsShape: []
+      tessellationDetail: 0.12
+      bones: []
+      spriteID: 41ff0d148b0739300800000000000000
+      internalID: 257673540370759444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1003
+        width: 97
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc345705caa259e30800000000000000
+      internalID: 4509557521454023628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1001
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b888f1d8bd79ff0800000000000000
+      internalID: -29313473388704992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1001
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5debec30788c306a0800000000000000
+      internalID: -6484118556273361195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1004
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e6c164e22e39d80800000000000000
+      internalID: -8244997804412604838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 996
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b02331d0776e1a0800000000000000
+      internalID: -6780601290919376076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1022
+        width: 180
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14a4d0e450b1910800000000000000
+      internalID: 1809045508107944409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1041
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 29.5}
+        - {x: 18, y: 36.5}
+        - {x: 8, y: 36.5}
+        - {x: 5, y: 31.5}
+        - {x: -13, y: 25.5}
+        - {x: -32, y: 27.5}
+        - {x: -34, y: 24.5}
+        - {x: -34, y: -9.5}
+        - {x: -18, y: -12.5}
+        - {x: -2, y: -8.5}
+        - {x: 13, y: -10.5}
+        - {x: 22, y: -18.5}
+        - {x: 10, y: -21.5}
+        - {x: -1, y: -18.5}
+        - {x: -20, y: -15.5}
+        - {x: -21, y: -28.5}
+        - {x: -14, y: -36.5}
+        - {x: 30, y: -36.5}
+        - {x: 34, y: -33.5}
+        - {x: 34, y: 4.5}
+        - {x: 33, y: 7.5}
+      physicsShape: []
+      tessellationDetail: 0.24
+      bones: []
+      spriteID: e4d0ae4e2357e03f0800000000000000
+      internalID: -932679211369755314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 899
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3d176837b288990800000000000000
+      internalID: -7383603813897088014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 894
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b53dcd975e736b10800000000000000
+      internalID: 1973559976493135285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 906
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f222934372ef16080800000000000000
+      internalID: -9195789519780502993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 909
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296255a5e94a0c120800000000000000
+      internalID: 2432124798807385746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 894
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e38410e2db2dbba0800000000000000
+      internalID: -6071648537922993182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 930
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6f0f4c6c2f19d40800000000000000
+      internalID: 5589515548065068714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 933
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee657f31f00be38f0800000000000000
+      internalID: -558815724941388050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 934
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf0d4cd5ce379570800000000000000
+      internalID: 8473310243446394820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 932
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3259c653466acc730800000000000000
+      internalID: 4020771516658259235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 932
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab46bcfbd290d5e20800000000000000
+      internalID: 3340836590674732218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 938
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c806adc896716ae30800000000000000
+      internalID: 4514321418587627660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 909
+        width: 27
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef39f8ff00ae03290800000000000000
+      internalID: -7912567255281462274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 796
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0e8995808730fa0800000000000000
+      internalID: -5835688714883768077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 846
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6d00fd8b8435720800000000000000
+      internalID: 2833688549398730473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 843
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94349b473c6f2aec0800000000000000
+      internalID: -3557009436331916471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 841
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018df7cbc076df7a0800000000000000
+      internalID: -6341799395868026864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 848
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36f7fa40451d9ce0800000000000000
+      internalID: -1396936943535131078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 851
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0cd131ff73bb20800000000000000
+      internalID: 3149001238362459714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 854
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d81f0965a6a6b0e0800000000000000
+      internalID: -2254431334089942830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 846
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eaa0d26f9b6a3c0800000000000000
+      internalID: -4348583923210867113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 843
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8bba8002e0de270800000000000000
+      internalID: 8281290820551424187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 816
+        width: 8
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71af7cf5af9fcef60800000000000000
+      internalID: 8065095886457797143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 831
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9547b4722a56a100800000000000000
+      internalID: 118881544205452702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 808
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c1f9416cf069e00800000000000000
+      internalID: 1051044906461502464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 796
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9debe64f7d6c6b310800000000000000
+      internalID: 1420541363303136985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 806
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33334d0e9137c8d10800000000000000
+      internalID: 2129203278822781747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 796
+        width: 145
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a43c876b06e8f620800000000000000
+      internalID: 2808247304321774753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 787
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ecba7c7622e23b0800000000000000
+      internalID: -5535449062864859625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 809
+        width: 71
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26146569df4c07e00800000000000000
+      internalID: 1040548107350589794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 804
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc3906d5402c0f10800000000000000
+      internalID: 2237198599212055798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 762
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4977ef7a4f82c00800000000000000
+      internalID: 876219129889527001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 757
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99b1ba3d86886660800000000000000
+      internalID: 7379295930579794335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 763
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5952c36936cbeda0800000000000000
+      internalID: -5914415735831897764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 760
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eecdfe8cb458d7b0800000000000000
+      internalID: -5199312600969654554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 749
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8fe901767ab79f0800000000000000
+      internalID: -469597675027760920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 766
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a74e1c34456a1e0800000000000000
+      internalID: -2186967919049278895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 761
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b30b71ea27794350800000000000000
+      internalID: 6001459004503163824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 754
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b57ef1220f893d40800000000000000
+      internalID: 5564636053915989424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 763
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee44b8e319691410800000000000000
+      internalID: 1448304289405751020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 756
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192d3900ab08ea3b0800000000000000
+      internalID: -5499316558610836847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 760
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3686366d093d8cc10800000000000000
+      internalID: 2074140247429703779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 764
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b8527ecff012830800000000000000
+      internalID: 4044531519239588747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 762
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80712c6e98b648500800000000000000
+      internalID: 397560907141617416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 760
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201c37bf8ebe6c830800000000000000
+      internalID: 4091216697396281602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 644
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4a477f576c02420800000000000000
+      internalID: 2603298794585236698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 656
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f7fb468e155f60800000000000000
+      internalID: 8022351873379399884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 643
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bef76d6106584b0800000000000000
+      internalID: -5438835323775751371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 682
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19170382b8ca69510800000000000000
+      internalID: 1555620434977780113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 686
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57aab1f65f92cdf0800000000000000
+      internalID: -161391440860371108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 683
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752e6ca3519c3c60800000000000000
+      internalID: 7799268443260069239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 683
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d92e0376425874d0800000000000000
+      internalID: -3136666677932054056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 691
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7487a3e2a5c070800000000000000
+      internalID: 8126080201311682147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 686
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a371b326846d9580800000000000000
+      internalID: -8818781968034335836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 675
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec07b90eb367f7040800000000000000
+      internalID: 4647563340013072590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 674
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4472ac03a65e200800000000000000
+      internalID: 208689715525141691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 619
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c039f891565ad650800000000000000
+      internalID: 6258409540643532992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 621
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47567bc59e90b7a60800000000000000
+      internalID: 7672737288043324788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 618
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebe05cf845b10eb0800000000000000
+      internalID: -4755320406451098656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 618
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47425c263d505b780800000000000000
+      internalID: -8668015502351326092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 616
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b09f11464fbe640800000000000000
+      internalID: 5110446912817400677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 617
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984e6fab155590f90800000000000000
+      internalID: -6986959537371159415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 617
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea067b9ab68fce040800000000000000
+      internalID: 4678387254223659182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 614
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ce67567e17e880800000000000000
+      internalID: -8581857071309340176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 619
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb7caab60f77ab0800000000000000
+      internalID: -5010271715209003827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 617
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e490237bc5e5b0800000000000000
+      internalID: -5339638087849548523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 611
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d59187f03f9580800000000000000
+      internalID: -8818275705779005332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 552
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b11060bbd4bf81e0800000000000000
+      internalID: -2193335637856218698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 551
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b031d50c2e3401250800000000000000
+      internalID: 5913300951906456331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 554
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68285c12b1c410c0800000000000000
+      internalID: -4605843548169295764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 556
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb564e92af109760800000000000000
+      internalID: 7462499365853486079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 549
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad4526cbf1ecfa0800000000000000
+      internalID: -5778646377905726863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 571
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692babbefb0c30180800000000000000
+      internalID: -9150258087360548202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 555
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378bd46d156cd6450800000000000000
+      internalID: 6083736726437476467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 551
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779cee3a278b3fe0800000000000000
+      internalID: -1208223459504777345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 550
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a189939a371670530800000000000000
+      internalID: 3821129958235412506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 559
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b90ee7061139ae0800000000000000
+      internalID: -1543871141114766440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 540
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432bf0f92ea246940800000000000000
+      internalID: 5288399015259386420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 515
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e4e743eae787e30800000000000000
+      internalID: 4501487114226912889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 530
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de1716547b002c10800000000000000
+      internalID: 2026632426605190869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 542
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8b0ab5f9f1bcd00800000000000000
+      internalID: 993922912062847230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 545
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293cf90c83c8e1d90800000000000000
+      internalID: -7125103385075793006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 540
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203ec3ae3a311e070800000000000000
+      internalID: 8133803996738282242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 443
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2426bea7269f50f90800000000000000
+      internalID: -6987905045431098814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 441
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3844d9cfb9e6a8910800000000000000
+      internalID: 1840405013971420291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 447
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe0b66d7566859d0800000000000000
+      internalID: -2785363842083123459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 451
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af59e613a3645150800000000000000
+      internalID: 5860418567231070117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 433
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -16}
+        - {x: 18, y: -14}
+        - {x: 16, y: -12}
+        - {x: 18, y: -14}
+        - {x: 19, y: -16}
+        - {x: 49, y: -16}
+        - {x: 52, y: -12}
+        - {x: 52, y: 9}
+        - {x: 49, y: 13}
+        - {x: 27, y: 14}
+        - {x: 34, y: 26}
+        - {x: 36, y: 35}
+        - {x: 29, y: 46}
+        - {x: 10, y: 46}
+        - {x: 2, y: 39}
+        - {x: -14, y: 18}
+        - {x: -22, y: 15}
+        - {x: -24, y: 31}
+        - {x: -41, y: 35}
+        - {x: -52, y: 24}
+        - {x: -52, y: 1}
+        - {x: -36, y: -28}
+        - {x: -29, y: -35}
+        - {x: -3, y: -46}
+        - {x: 19, y: -46}
+        - {x: 32, y: -40}
+        - {x: 32, y: -25}
+        - {x: 20, y: -16}
+      physicsShape: []
+      tessellationDetail: 0.22
+      bones: []
+      spriteID: eefcfbf4b0ad1c8e0800000000000000
+      internalID: -1674817844287647762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 452
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61960cd5aeedb8c0800000000000000
+      internalID: -3981764099397217940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 451
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b91232d7288b6470800000000000000
+      internalID: 8388948435519281587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 451
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d9e18cc397915d0800000000000000
+      internalID: -3091306367250686703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 458
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dbe046254416e90800000000000000
+      internalID: -7034266022319309553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 448
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195d06112b0533b80800000000000000
+      internalID: -8416294552899365487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 443
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22102a9180495ff90800000000000000
+      internalID: -6920462489874202334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 452
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f21d1617510ddc0800000000000000
+      internalID: -3616366924061921426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 459
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b8c5a916f7cee80800000000000000
+      internalID: -8147997568641758345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 440
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9253dd1c434d2d290800000000000000
+      internalID: -7866992276006947543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 438
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58aaae014e741970800000000000000
+      internalID: 8724737196007532637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 457
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9381d329207abd160800000000000000
+      internalID: 7051413271063894073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 383
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1836c98979cafc1a0800000000000000
+      internalID: -6787016346323623039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 382
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279776294e89daba0800000000000000
+      internalID: -6076032214776710798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 384
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88684032c5ef34f0800000000000000
+      internalID: -846705582725896049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 410
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eae7669399516490800000000000000
+      internalID: -7754818592936826135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 408
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a9abe14d809efa0800000000000000
+      internalID: -5771071740356945373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 409
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa70e55f3fc8dad80800000000000000
+      internalID: -8237773163969247318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 409
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b300264efc7b78f0800000000000000
+      internalID: -541701898627972176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 324
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6000963902880e700800000000000000
+      internalID: 567603226542145542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 332
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62873701cbdc7d0800000000000000
+      internalID: -2896452206486608193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 324
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d3810e58790dc20800000000000000
+      internalID: 3229247534070775081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 337
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0d04329235e7260800000000000000
+      internalID: 7097201498932695232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 314
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc599496ace17bc0800000000000000
+      internalID: -3786985611440071478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 315
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3a21f480781d660800000000000000
+      internalID: 7408851331757286321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 319
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c21242330aa40f00800000000000000
+      internalID: 1082176741180576449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 329
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccbaa06a4f13d460800000000000000
+      internalID: 7265185028188585159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 328
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a0311e5f88b18a0800000000000000
+      internalID: -6333317861341984218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 318
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09f609420d2171d0800000000000000
+      internalID: -3354850759575930612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 314
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378e72c004ad5c770800000000000000
+      internalID: 8630544229542127731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 336
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24714fd3c33273a0800000000000000
+      internalID: -6669211181825035217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 330
+        width: 164
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a79e0215f0782400800000000000000
+      internalID: 299613573092382630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 331
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9155f77db67c5640800000000000000
+      internalID: 5070057836645798303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 228
+        width: 37
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc58979f0334b92b0800000000000000
+      internalID: -5576789835945245233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 277
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09ced09f1a3a4d00800000000000000
+      internalID: 957641778018568459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 282
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3e17f1e119bfd70800000000000000
+      internalID: 9078009032457970660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 299
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1afa5927a068a610800000000000000
+      internalID: 1632661135991437852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 304
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36c25c0ac796d6e0800000000000000
+      internalID: -1813094905924106692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 279
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc15b4f9d1af00330800000000000000
+      internalID: 3675212301067833805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 249
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b1f97417aedeb0800000000000000
+      internalID: -4693130055286408880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 288
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb52b266500945e0800000000000000
+      internalID: -1925006994701132833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 291
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c62cbe1054a7b010800000000000000
+      internalID: 1204612089364883137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 287
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574d51f64571d8920800000000000000
+      internalID: 2994074978679641205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 145
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1584c7a1abb90c0800000000000000
+      internalID: -4567852774120205861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 272
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed40ecb17fe38fda0800000000000000
+      internalID: -5910905279879445282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 279
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbb9b769e6511f40800000000000000
+      internalID: 5697430564067982272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 152
+        width: 148
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22ace7006a4d8130800000000000000
+      internalID: 3570591855884935723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 267
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c48f78b787d4e00800000000000000
+      internalID: 1030612361695218798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 269
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf1dbdaf19822b10800000000000000
+      internalID: 1955275957384060857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 235
+        width: 71
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bdc1aace11fbea0800000000000000
+      internalID: -5854941282394383503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 247
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02133eafc19f444a0800000000000000
+      internalID: -6609884450209451744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 257
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b69053f481bda0800000000000000
+      internalID: -5930813053706260374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 229
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c66b42dc2955c20800000000000000
+      internalID: 3194620920471121019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 228
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8307f17e2b4cd6b0800000000000000
+      internalID: -5270254801077730421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 248
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d64690d8ba2de270800000000000000
+      internalID: 8281322263066068692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb19e78b0ad2ccd0800000000000000
+      internalID: -2539227496823841826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 163
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6b9c3aa5adf0f90800000000000000
+      internalID: -6985124414198532384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 166
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c07e45a708a1a0800000000000000
+      internalID: -6798175230948750909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 162
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9347b7a20b541a0800000000000000
+      internalID: -6825855963703789109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 159
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606f3ea386ba30020800000000000000
+      internalID: 2306875898296792582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 0
+        width: 340
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896db35ffb8f99630800000000000000
+      internalID: 3934449252821620376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 30
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4dcb73ba5e9c0a0800000000000000
+      internalID: -6860700033784949585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 110
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff190040211cfb4b0800000000000000
+      internalID: -5422403143210069505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526983b7b797d1ae0800000000000000
+      internalID: -1576970723254561243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 67
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3416e32909009bc60800000000000000
+      internalID: 7834293647716540739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd80e706fa710320800000000000000
+      internalID: 2522432463416888831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 47
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22e3a5063869bb40800000000000000
+      internalID: 5456507004768215598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 45
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83e7dd560c59d10800000000000000
+      internalID: 2131821542370064617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 48
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7229cc3b83cf90800000000000000
+      internalID: -6934545908031652046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 48
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fa1790896953e00800000000000000
+      internalID: 1023890070034296700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 48
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd9f499717d5180800000000000000
+      internalID: -9125012502978372552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 27
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a5318c82cd41a0800000000000000
+      internalID: -6823583951677446545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e77756bd349aed0800000000000000
+      internalID: -2402314316646220210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayman_spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 72
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86eeba3fdb76060800000000000000
+      internalID: 6946729804501510313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e50bff219e3caab4fb3511afe5e67a3f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
